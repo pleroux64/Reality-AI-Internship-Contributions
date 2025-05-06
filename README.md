@@ -1,7 +1,7 @@
 # Reality AI Internship Contributions
 
 ## Overview
-This repository highlights my contributions during my internship at Radical AI. I played key roles in the development of the **Marvel Platform**, an open-source teaching assistant AI project. My responsibilities included leading and co-leading the development of significant features such as the **Tool History Page** and **Onboarding** systems. All my contributions were successfully merged into the main repository, demonstrating my ability to deliver production-quality code and collaborate effectively in a team environment.
+This repository highlights my contributions during my internship at Reality AI. I played key roles in the development of the **Marvel Platform**, an open-source teaching assistant AI project. My responsibilities included leading and co-leading the development of significant features such as the **Tool History Page** and **Onboarding** systems. All my contributions were successfully merged into the main repository, demonstrating my ability to deliver production-quality code and collaborate effectively in a team environment.
 
 ---
 
